@@ -1,0 +1,34 @@
+body{
+  font-family: "Playfair", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;   
+}
+body{
+    padding: 2rem;
+    background-color: #DEEFF3
+}
+
+h1{
+    font-size: 140px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 65px;
+}
+
+h3{
+    font-size: 40px;
+}
+
+h4{
+    font-size: 22px;
+}
+
+.restaurant{
+    font: #2D3550
+}
